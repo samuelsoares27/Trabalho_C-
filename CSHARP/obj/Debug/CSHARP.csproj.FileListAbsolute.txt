@@ -1,0 +1,10 @@
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\bin\Debug\CSHARP.exe.config
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\bin\Debug\CSHARP.exe
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\bin\Debug\CSHARP.pdb
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.csprojAssemblyReference.cache
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.Form1.resources
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.exe
+C:\Users\Samuel\Desktop\Trabalho_C#\CSHARP\obj\Debug\CSHARP.pdb
